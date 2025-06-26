@@ -1,4 +1,4 @@
-# justcool 🚀✨
+# justcool 🚀✨ (https://aeratory678.github.io/justcool/)
 
 Welcome to **justcool** — the most playful typing visualizer on the block! Every keystroke explodes with particles, shapes, sounds, and surprises.
 
