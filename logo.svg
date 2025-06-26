@@ -1,0 +1,13 @@
+<svg width="180" height="48" viewBox="0 0 180 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="48" rx="12" fill="#181818"/>
+  <text x="16" y="32" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="bold" fill="#00ffff" letter-spacing="1.5">just</text>
+  <text x="80" y="32" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="bold" fill="#fff" letter-spacing="1.5">cool</text>
+  <!-- Confetti/particle accent -->
+  <circle cx="60" cy="16" r="3" fill="#00ffff"/>
+  <circle cx="70" cy="10" r="2" fill="#ff4b1f"/>
+  <circle cx="90" cy="12" r="2.5" fill="#1fa2ff"/>
+  <circle cx="110" cy="18" r="2" fill="#f9d423"/>
+  <circle cx="120" cy="8" r="2" fill="#a8ff78"/>
+  <circle cx="130" cy="20" r="2" fill="#f953c6"/>
+  <circle cx="150" cy="14" r="2.5" fill="#43e97b"/>
+</svg>
