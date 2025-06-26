@@ -1,6 +1,6 @@
 # justcool 🚀✨ (https://aeratory678.github.io/justcool/)
 
-Welcome to **justcool** — the most playful typing visualizer on the block! Every keystroke explodes with particles, shapes, sounds, and surprises.
+Welcome to **justcool** — the most playful typing visualizer on the block! Every keystroke explodes with particles, shapes and surprises.
 
 ---
 
@@ -82,3 +82,8 @@ _Ready to type like never before? Just cool it!_ 😁🎹✨
 Copyright (c) 2025 Edwin Jojo Udhiniparamban
 
 This project is licensed under the terms of the [MIT License](LICENSE.md).
+
+---
+## Sounds
+
+To make sound to happen,you need to run this in a code editor,this is designed so that the system will not break for older devices which run on low memory.
