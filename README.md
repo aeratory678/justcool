@@ -8,7 +8,6 @@ Welcome to **justcool** — the most playful typing visualizer on the block! Eve
 
 A real-time typing visualizer that emits colorful particles with every key you press. But wait, there's more:
 - Particles come in all **shapes** & **sizes**
-- Sounds that **change as you type** — make your own symphony!
 - Endless ways to customize and have fun
 
 ---
@@ -17,7 +16,6 @@ A real-time typing visualizer that emits colorful particles with every key you p
 
 - **Type anything** — see instant, lively feedback on your screen.
 - **Particles** follow your keystrokes, bouncing and swirling.
-- **Sounds** play and morph as you type, turning your keyboard into an instrument!
 - Totally in the browser — no install needed. Works on any modern browser.
 
 ---
